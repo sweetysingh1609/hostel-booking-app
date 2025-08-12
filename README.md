@@ -2,6 +2,9 @@ Working Project Link (Netlify) : https://hostel-booking-app-booking.netlify.app/
 
 Github Link: https://github.com/sweetysingh1609/hostel-booking-app
 
+Google DOC: https://docs.google.com/document/d/1I31o6M7KareU2VxGhjTAWJCQMxaVHV7a1PQImGnYr8s/edit?usp=sharing
+
+
 
 1. Project Overview
 This is a Hostel Room Reservation Web App built in React, designed to simulate and manage room reservations with features like:
